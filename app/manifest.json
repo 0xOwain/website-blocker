@@ -7,7 +7,19 @@
     "storage",
     "tabs"
   ],
-  "background":"background.js"
+  "background":"background.js",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["blocked.html"],
+      "matches": ["*://*/*"]
+    }
+  ]
+
+
+
 }
 
 

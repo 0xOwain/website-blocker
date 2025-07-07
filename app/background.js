@@ -1,6 +1,6 @@
-function checkUrl(){
+/*function checkUrl(){
     let rootUrl == window.location.origin;
-    if (rootUrl == )
-}
+    if (rootUrl == );
+}*/
 
-
+/*CONTROL + SHIFT + SLASH = COMMENT SELECTED OR MAKE NEW COMMENT*/
