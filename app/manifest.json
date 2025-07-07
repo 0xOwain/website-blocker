@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "gBlock",
+  "version": "1.0",
+  "description": "As it says on the tin, blocks websites with no hassle.",
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "background":"background.js"
+}
+
+
